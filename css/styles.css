@@ -9,10 +9,7 @@ body{
     position: relative;
     margin-left: 20%;
     margin-right: 20%;
-    background-image: linear-gradient(rgba(100, 100, 255, 0.5), rgba(0, 0, 0, 0.7));
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
+    background-color: red;
 }
 
 p{
